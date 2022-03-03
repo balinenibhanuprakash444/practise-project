@@ -1,0 +1,15 @@
+package innerclassesassisted;
+
+public class InnerclsAssisted1 {
+
+	public static void main(String[] args) {
+		InnerclsAssisted1 i = new InnerclsAssisted1(){
+			public void dispaly() {
+				System.out.println("Anonymous Inner class");
+			}
+		};
+		i.display();
+
+	}
+
+}
