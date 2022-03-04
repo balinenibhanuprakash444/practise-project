@@ -2,7 +2,6 @@
 public class arrayAssisted {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		//single-dimensional array
 		int a[]= {10,20,30,40,50};
 		for(int i=0;i<5;i++) {
