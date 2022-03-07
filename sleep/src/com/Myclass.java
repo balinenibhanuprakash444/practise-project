@@ -11,8 +11,7 @@ public class Myclass {
         {
             LOCK.wait(1000);
             System.out.println("Object '" + LOCK + "' is woken after" + " waiting for 1 second");
-		// TODO Auto-generated method stub
-
+	
 	}
 
 }
